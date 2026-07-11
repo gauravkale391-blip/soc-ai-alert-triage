@@ -1,18 +1,9 @@
-# --- 1. Live Dashboard Layer ---
 streamlit
-
-# --- 2. Detection Layer (Random Forest & Isolation Forest) ---
+streamlit-autorefresh
 scikit-learn
 pandas
 numpy
 joblib
-
-# --- 3. Enrichment Layer (VirusTotal API Integration) ---
 requests
-
-# --- 4. AI Reasoning Layer (LLM/API Integration) ---
-# Uncomment the line based on which AI provider you are using:
-openai         # If using OpenAI API
-
-# --- 5. Environment Setup ---
 python-dotenv
+openai
