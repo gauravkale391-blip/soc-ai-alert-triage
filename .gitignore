@@ -1,0 +1,4 @@
+.env
+soc_env/
+data/
+*.pkl
