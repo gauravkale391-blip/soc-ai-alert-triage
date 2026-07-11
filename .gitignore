@@ -1,6 +1,5 @@
 .env
 soc_env/
 data/
-*.pkl
 __pycache__/
 *.pyc
