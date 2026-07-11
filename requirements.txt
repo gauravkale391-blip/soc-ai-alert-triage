@@ -5,6 +5,7 @@ streamlit
 scikit-learn
 pandas
 numpy
+joblib
 
 # --- 3. Enrichment Layer (VirusTotal API Integration) ---
 requests
