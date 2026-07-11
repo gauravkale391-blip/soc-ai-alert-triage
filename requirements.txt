@@ -48,7 +48,7 @@ bcrypt==5.0.0
 beautifulsoup4==4.14.3
 bidict==0.23.1
 billiard==4.2.4
-binwalk==2.4.3
+binwalk
 bitstruct==8.22.0
 bleach==6.3.0
 blinker==1.9.0
@@ -67,7 +67,7 @@ certipy-ad==5.0.4
 cffi==2.0.0
 chardet==5.2.0
 charset-normalizer==3.4.4
-cheroot==11.1.2+ds1
+cheroot
 CherryPy==18.10.0
 cherrypy-cors==1.6
 cli_helpers==2.10.1
