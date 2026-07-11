@@ -278,7 +278,7 @@ pipx==1.8.0
 plaster==1.1.2
 plaster_pastedeploy==0.5
 platformdirs==4.5.1
-playwright==1.55.0+ds
+playwright
 pluggy==1.6.0
 pluginbase==1.0.1
 ply==3.11
